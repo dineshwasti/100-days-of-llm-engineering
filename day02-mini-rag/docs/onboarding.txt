@@ -1,0 +1,16 @@
+New Employee Onboarding Guide
+
+Before your first day, IT ships your laptop to your home address. It usually
+arrives 2-3 business days before your start date. Do not open it until day one.
+
+On your first morning, you'll join a welcome call at 9:30 AM with your manager
+and the People team. IT will help you set up your accounts (email, Slack,
+GitHub) during this call. Make sure your laptop is charged.
+
+Your first week is focused on orientation: company overview, meeting your
+team, and setting up your local development environment. You are not expected
+to ship any code in week one.
+
+By the end of week two, you should have completed the "Getting Started" guide
+in the internal wiki and made your first small pull request, even if it's just
+a documentation fix.
