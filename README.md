@@ -7,7 +7,8 @@ Goal: build real, demonstrable skill in working with LLMs (prompting, APIs, RAG,
 
 | Day | Date | Topic | Notes |
 |-----|------|-------|-------|
-| 01  | 2026-08-24 | Getting started — calling an LLM API | [day01](./day01/) |
+| 01  | 2026-08-24 | Getting started — calling an LLM API | [day01](./day01-first-api-call/) |
+| 02  | 2026-08-24 | Mini RAG — retrieval-augmented Q&A over local docs | [day02](./day02-mini-rag/) |
 
 ## Structure
 
