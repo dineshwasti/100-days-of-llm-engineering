@@ -15,6 +15,7 @@ progression I'm working through myself, one skill at a time.
 | 01  | 2026-08-24 | Getting started — calling an LLM API | [day01](./day01-first-api-call/) |
 | 02  | 2026-08-24 | Mini RAG — retrieval-augmented Q&A over local docs | [day02](./day02-mini-rag/) |
 | 03  | 2026-08-24 | Prompt Playground CLI — system prompts, temperature, streaming | [day03](./day03-prompt-playground/) |
+| 04  | 2026-08-26 | 100 numpy exercises — broadcasting, ufuncs, einsum | [day04](./day04-numpy-100/) |
 
 ## Structure
 
