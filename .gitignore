@@ -6,3 +6,6 @@ venv/
 
 # local experiment logs
 log.jsonl
+
+# saved chat transcripts
+transcript-*.md
