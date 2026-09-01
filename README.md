@@ -17,6 +17,7 @@ progression I'm working through myself, one skill at a time.
 | 03  | 2026-08-24 | Prompt Playground CLI — system prompts, temperature, streaming | [day03](./day03-prompt-playground/) |
 | 04  | 2026-08-26 | 100 numpy exercises — broadcasting, ufuncs, einsum | [day04](./day04-numpy-100/) |
 | 05  | 2026-08-30 | Multi-turn chatbot — conversation memory, slash commands | [day05](./day05-multiturn-chatbot/) |
+| 06  | 2026-09-01 | Structured extraction — JSON schema validation with retries | [day06](./day06-structured-extraction/) |
 
 ## Structure
 
