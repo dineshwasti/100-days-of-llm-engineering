@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "expected": "Paris",
+    "keywords": ["paris"]
+  },
+  {
+    "question": "What does HTTP status code 404 mean?",
+    "expected": "Not Found - the server could not find the requested resource.",
+    "keywords": ["not found"]
+  },
+  {
+    "question": "In Python, what is the difference between a list and a tuple?",
+    "expected": "Lists are mutable and can be changed after creation; tuples are immutable.",
+    "keywords": ["mutable", "immutable"]
+  },
+  {
+    "question": "What does the 'temperature' parameter control in an LLM API call?",
+    "expected": "It controls randomness in sampling: lower values make output more deterministic, higher values more varied.",
+    "keywords": ["random", "deterministic"]
+  },
+  {
+    "question": "What is a token in the context of language models?",
+    "expected": "A chunk of text, roughly a word or word-piece, that the model processes as a single unit.",
+    "keywords": ["text", "unit"]
+  },
+  {
+    "question": "What does RAG stand for and what problem does it solve?",
+    "expected": "Retrieval-Augmented Generation. It grounds model answers in retrieved documents so it can use data outside its training set.",
+    "keywords": ["retrieval", "generation"]
+  },
+  {
+    "question": "Why is eval() dangerous when the input comes from a language model?",
+    "expected": "Model output is untrusted, so eval can execute arbitrary code such as imports or file access.",
+    "keywords": ["untrusted", "arbitrary code"]
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "expected": "100 degrees Celsius",
+    "keywords": ["100"]
+  },
+  {
+    "question": "In git, what does 'git fetch' do that 'git pull' does not?",
+    "expected": "Fetch downloads remote changes without merging them; pull fetches and then merges.",
+    "keywords": ["merge"]
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "expected": "O(log n)",
+    "keywords": ["log"]
+  }
+]
